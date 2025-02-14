@@ -902,6 +902,12 @@ footer {
 
 
 @media screen and (max-width: 860px){
+
+
+    .top_header_bg {
+	height: auto;
+
+    }
     
     .step_by_step {
         grid-template-columns: 1fr;
